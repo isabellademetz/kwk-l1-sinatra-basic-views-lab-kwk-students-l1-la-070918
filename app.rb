@@ -7,9 +7,7 @@ class App < Sinatra::Base
       erb :index
     end
   
-      get '/hours' do
-      erb :hours
-    end
+     
    
    
 
